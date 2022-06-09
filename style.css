@@ -1,0 +1,61 @@
+/* we can write comments */
+
+*{
+    background-color: bisque;
+    text-align: center;
+    box-sizing:border-box;
+    padding:10px;
+
+}
+
+.firstpage{
+    background-image:url("packedlunchsalad.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-attachment: fixed;
+}
+
+
+h1{
+ color:blueviolet;
+font-size: 32px;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2{
+    color: darkmagenta;
+    font-size: larger;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+
+.center{
+    text-align: center;}
+
+.nav{
+    display:flex;
+    background-color:blue;
+    text-align: center;
+    justify-content: space-evenly;
+}
+
+.nav a {background-color: aqua;
+    text-decoration: wavy;
+}
+.nav a {background-color: aqua;
+    
+}
+
+
+img{
+    width:25%;
+    align-items: center;
+}
+
+
+
+
+
+
+
